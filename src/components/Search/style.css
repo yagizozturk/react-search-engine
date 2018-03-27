@@ -1,0 +1,44 @@
+@import 'reset.css';
+
+.Bg-main{
+    background-color: #FFF;
+}
+
+.Div-logo{
+    margin-top: 200px
+}
+
+.Img-logo{
+    width: 600px;
+}
+
+.Text-center{
+    text-align: center;
+}
+
+.Input-search{
+    width: 800px;
+    height: 50px;
+    font-size: 23px;
+    padding: 5px;
+}
+
+.Padding-t-b-md{
+    padding: 10px 0 10px 0;
+}
+
+.Margin-t-b-md{
+    margin: 10px 0 10px 0;
+}
+
+.List-icons {
+    overflow: hidden;
+    max-width: 350px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.List-icons li{
+    float:left;
+    margin-left: 30px;
+}
