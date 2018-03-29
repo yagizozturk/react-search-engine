@@ -3,9 +3,9 @@ import React from 'react';
 class News extends React.Component{
     render(){
         return(
-            <div>
+            <h1 className="mt-5">
                 This is a news page!
-            </div>
+            </h1>
         );
     }
 }

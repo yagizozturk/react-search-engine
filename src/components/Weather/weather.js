@@ -3,9 +3,9 @@ import React from 'react';
 class Weather extends React.Component{
     render(){
         return(
-            <div>
+            <h1 className="mt-5">
                 Hi from weather
-            </div>
+            </h1>
         );
     }
 }

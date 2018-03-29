@@ -3,9 +3,9 @@ import React from 'react';
 class Food extends React.Component{
     render(){
         return(
-            <div>
-                This is a food page!
-            </div>
+            <h1 className="mt-5">
+                Food
+            </h1>
         );
     }
 }

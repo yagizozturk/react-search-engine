@@ -3,9 +3,9 @@ import React from 'react';
 class Movies extends React.Component{
     render(){
         return(
-            <div>
+            <h1 className="mt-5">
                 This is a movies page!
-            </div>
+            </h1>
         );
     }
 }
